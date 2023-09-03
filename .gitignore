@@ -1,0 +1,65 @@
+# Compiled Python files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*.ipynb.d_checkpoints/
+
+# Virtual environment
+venv/
+env/
+*.env
+.env
+
+# Testing artifacts
+htmlcov/
+.coverage
+.tox/
+
+# Logs and temporary files
+*.log
+*.log.*
+*.tmp
+
+# VSCode settings
+.vscode/
+
+# Local development settings
+.idea/
+
+# Compiled libraries and binaries
+dist/
+build/
+*.egg-info/
+*.egg
+*.so
+*.pyd
+*.dll
+*.exe
+
+# Mac OS X
+.DS_Store
+
+# Windows thumbnail
+Thumbs.db
+
+# Editor-specific files
+.idea/
+*.sublime-project
+*.sublime-workspace
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# pytest cache
+.cache/
+.pytest_cache/
+
+# Python venv files
+__pypackages__/
+
+# Ignore eBird life list CSV files
+ebird_*_life_list.csv
