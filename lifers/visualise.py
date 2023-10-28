@@ -26,6 +26,7 @@ def map_deck(map_data):
 
     chart = pdk.Deck(
         layers=[layer],
+        map_style="light",
         initial_view_state=view_state,
         tooltip={"text": "{locName}\n{tooltip_species}"},
     )
