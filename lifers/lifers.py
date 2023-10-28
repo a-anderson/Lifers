@@ -22,6 +22,9 @@ def main():
     st.set_page_config(layout="wide")
     st.title("Lifers: An eBird Needs Finder")
 
+    st.sidebar.image(
+        "images/logo.png",
+    )
     st.sidebar.title("Search Preferences")
     st.sidebar.divider()
 
