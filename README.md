@@ -1,3 +1,5 @@
+<img src="images/logo.png" alt="lifers logo" width="200"/>
+
 # Lifers: eBird Needs Finder
 
 This Streamlit application helps birdwatchers find bird species in their region of interest using the eBird API.
@@ -22,6 +24,7 @@ The Lifers app is designed to help birdwatchers locate recently observed bird sp
 -   Upload your eBird lifelist to compare against recent observations.
 -   Visualize bird species distribution on an interactive map.
 -   Access species information and observation details.
+    ![example image species information and observation details](images/location_details.png "location_details")
 
 ## Getting Started
 
