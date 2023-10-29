@@ -24,7 +24,6 @@ The Lifers app is designed to help birdwatchers locate recently observed bird sp
 -   Upload your eBird lifelist to compare against recent observations.
 -   Visualize bird species distribution on an interactive map.
 -   Access species information and observation details.
-    ![example image species information and observation details](images/location_details.png "location_details")
 
 ## Getting Started
 
@@ -42,6 +41,8 @@ To use the Lifers app, you'll need:
 3. Choose the number of recent days to retrieve observations.
 4. Click "Find Species" to reveal observations of birds that are not in your life list.
 5. Explore species details, observation locations, and more. Please note that private locations do not have hotspot links in eBird.
+
+<img src="images/example_output.png" alt="example image for app usage"/>
 
 ## Installation
 
