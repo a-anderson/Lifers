@@ -3,7 +3,7 @@ import pandas as pd
 
 def sciname_speciescodes():
     all_ebird_data = pd.read_excel(
-        "lifers/ebird_taxonomy_v2023.xlsx", usecols=["SCI_NAME", "SPECIES_CODE"]
+        "lifers/ebird_taxonomy_v2024.xlsx", usecols=["SCI_NAME", "SPECIES_CODE"]
     )
     return dict(zip(all_ebird_data["SCI_NAME"], all_ebird_data["SPECIES_CODE"]))
 
